@@ -1,2 +1,2 @@
 # jetbrains-template
-Template repostory to be used to create JetBrains Academy Projects faster.
+[Easy] Completed Project From Hyperskill Python Developer Track
