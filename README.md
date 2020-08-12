@@ -1,2 +1,2 @@
 # jetbrains-template
-[Easy] Completed Project From Hyperskill Python Developer Track
+[Easy] Completed Project From JetBrains Academy Python Developer Track
