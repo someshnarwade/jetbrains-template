@@ -13,3 +13,4 @@ Outcomes after completing project.
 1. Steps involved
 2. in the project.
 
+Also update the about section of the project/repository with a short description.
